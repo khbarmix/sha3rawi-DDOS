@@ -130,7 +130,7 @@ def usage():
 
 	print '---------------------------------------------------'
 
-	print 'USAGE: python sha3rawi-DDOS.py <url>'
+	print 'USAGE: python sha3rawi-DDOS.py https://qenl.poxnel.com'
 
 	print 'you can add "safe" after url, to autoshut after dos'
 
